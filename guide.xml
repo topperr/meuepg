@@ -1,182 +1,39 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Globo">
-    <display-name lang="pt">Globo</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Fox(1)">
+    <display-name lang="pt">Fox(1)</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Rede TV">
-    <display-name lang="pt">Rede TV</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Warner Channel">
+    <display-name lang="pt">Warner Channel (1)</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Band">
-    <display-name lang="pt">Band</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Sony (1)">
+    <display-name lang="pt">Sony (1)</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="CNT">
-    <display-name lang="pt">CNT</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Fx (1)">
+    <display-name lang="pt">Fx (1)</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="SBT (1)">
-    <display-name lang="pt">SBT (1)</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Axn (1)">
+    <display-name lang="pt">Axn (1)</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
-  <channel id="Record">
-    <display-name lang="pt">Record</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="Globo - SP (1)">
-    <display-name lang="pt">Globo - SP (1)</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="Tbs (1)">
+    <display-name lang="pt">Tbs (1)</display-name>
+    <url>http://www.clarotv.com.br</url>
   </channel>
   <channel id="Comedy Central">
     <display-name lang="pt">Comedy Central</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
-  <programme start="20191219003000 -0400" stop="20191219011500 -0400" channel="Band">
-    <title lang="pt">Jornal da Noite</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219011500 -0400" stop="20191219012000 -0400" channel="Band">
-    <title lang="pt">Que Fim Levou?</title>
-    <sub-title lang="pt">Boletim</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219012000 -0400" stop="20191219020500 -0400" channel="Band">
-    <title lang="pt">Justiça Implacável</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219020500 -0400" stop="20191219033000 -0400" channel="Band">
-    <title lang="pt">+info</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219033000 -0400" stop="20191219041500 -0400" channel="Band">
-    <title lang="pt">Band Notícias</title>
-    <sub-title lang="pt">Reapresentação</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219041500 -0400" stop="20191219050000 -0400" channel="Band">
-    <title lang="pt">Jornal da Noite</title>
-    <sub-title lang="pt">Reapresentação</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219050000 -0400" stop="20191219070000 -0400" channel="Band">
-    <title lang="pt">Café com Jornal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219070000 -0400" stop="20191219073000 -0400" channel="Band">
-    <title lang="pt">Posso Crer no Amanhã</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219073000 -0400" stop="20191219090000 -0400" channel="Band">
-    <title lang="pt">Notícias da Redação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219090000 -0400" stop="20191219105500 -0400" channel="Band">
-    <title lang="pt">Aqui na BAND</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219105500 -0400" stop="20191219110000 -0400" channel="Band">
-    <title lang="pt">#INFORMEI</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219110000 -0400" stop="20191219123000 -0400" channel="Band">
-    <title lang="pt">Jogo Aberto</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219123000 -0400" stop="20191219140000 -0400" channel="Band">
-    <title lang="pt">Os Donos da Bola</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219140000 -0400" stop="20191219150000 -0400" channel="Band">
-    <title lang="pt">Band Mulher</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219150000 -0400" stop="20191219160000 -0400" channel="Band">
-    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219160000 -0400" stop="20191219185000 -0400" channel="Band">
-    <title lang="pt">Brasil Urgente</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219185000 -0400" stop="20191219192000 -0400" channel="Band">
-    <title lang="pt">Jornal do Rio</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219192000 -0400" stop="20191219202000 -0400" channel="Band">
-    <title lang="pt">Jornal da Band</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219202000 -0400" stop="20191219211000 -0400" channel="Band">
-    <title lang="pt">Ouro Verde</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219211000 -0400" stop="20191219215700 -0400" channel="Band">
-    <title lang="pt">Igreja da Graça</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219215700 -0400" stop="20191219220000 -0400" channel="Band">
-    <title lang="pt">Agenda dos Pastores</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219220000 -0400" stop="20191219224500 -0400" channel="Band">
-    <title lang="pt">Band Notícias</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219224500 -0400" stop="20191219234500 -0400" channel="Band">
-    <title lang="pt">Planeta Startup</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20191219234500 -0400" stop="20191220002500 -0400" channel="Band">
-    <title lang="pt">Jornal da Noite</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery ID (1)">
+    <display-name lang="pt">Discovery ID (1)</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
 </tv>
