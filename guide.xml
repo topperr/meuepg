@@ -1,39 +1,1748 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Fox(1)">
-    <display-name lang="pt">Fox(1)</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Warner Channel">
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Warner Channel (1)">
     <display-name lang="pt">Warner Channel (1)</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Sony (1)">
-    <display-name lang="pt">Sony (1)</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Fx (1)">
-    <display-name lang="pt">Fx(1)</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Axn (1)">
-    <display-name lang="pt">Axn(1)</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Tbs (1)">
-    <display-name lang="pt">Tbs (1)</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Comedy Central">
-    <display-name lang="pt">Comedy Central</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="A&amp;E">
-    <display-name lang="pt">A&amp;E</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Discovery ID (1)">
-    <display-name lang="pt">Discovery ID (1)</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
+  <programme start="20191219003000 -0400" stop="20191219011500 -0400" channel="Band">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219011500 -0400" stop="20191219012000 -0400" channel="Band">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219012000 -0400" stop="20191219020500 -0400" channel="Band">
+    <title lang="pt">Justiça Implacável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219020500 -0400" stop="20191219033000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219033000 -0400" stop="20191219041500 -0400" channel="Band">
+    <title lang="pt">Band Notícias</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219041500 -0400" stop="20191219050000 -0400" channel="Band">
+    <title lang="pt">Jornal da Noite</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219050000 -0400" stop="20191219070000 -0400" channel="Band">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219070000 -0400" stop="20191219073000 -0400" channel="Band">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219073000 -0400" stop="20191219090000 -0400" channel="Band">
+    <title lang="pt">Notícias da Redação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219090000 -0400" stop="20191219105500 -0400" channel="Band">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219105500 -0400" stop="20191219110000 -0400" channel="Band">
+    <title lang="pt">#INFORMEI</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219110000 -0400" stop="20191219123000 -0400" channel="Band">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219123000 -0400" stop="20191219140000 -0400" channel="Band">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219140000 -0400" stop="20191219150000 -0400" channel="Band">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219150000 -0400" stop="20191219160000 -0400" channel="Band">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219160000 -0400" stop="20191219185000 -0400" channel="Band">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219185000 -0400" stop="20191219192000 -0400" channel="Band">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219192000 -0400" stop="20191219202000 -0400" channel="Band">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219202000 -0400" stop="20191219211000 -0400" channel="Band">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219211000 -0400" stop="20191219215700 -0400" channel="Band">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219215700 -0400" stop="20191219220000 -0400" channel="Band">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219220000 -0400" stop="20191219224500 -0400" channel="Band">
+    <title lang="pt">Band Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219224500 -0400" stop="20191219234500 -0400" channel="Band">
+    <title lang="pt">Planeta Startup</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219234500 -0400" stop="20191220002500 -0400" channel="Band">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220002500 -0400" stop="20191220003000 -0400" channel="Band">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220003000 -0400" stop="20191220030000 -0400" channel="Band">
+    <title lang="pt">NBA 2019/20: Houston Rockets x L.a. Clippers</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220030000 -0400" stop="20191220033000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220033000 -0400" stop="20191220041500 -0400" channel="Band">
+    <title lang="pt">Band Notícias</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220041500 -0400" stop="20191220050000 -0400" channel="Band">
+    <title lang="pt">Jornal da Noite</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220050000 -0400" stop="20191220070000 -0400" channel="Band">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220070000 -0400" stop="20191220073000 -0400" channel="Band">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220073000 -0400" stop="20191220090000 -0400" channel="Band">
+    <title lang="pt">Notícias da Redação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220090000 -0400" stop="20191220105500 -0400" channel="Band">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220105500 -0400" stop="20191220110000 -0400" channel="Band">
+    <title lang="pt">#INFORMEI</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220110000 -0400" stop="20191220123000 -0400" channel="Band">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220123000 -0400" stop="20191220140000 -0400" channel="Band">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220140000 -0400" stop="20191220150000 -0400" channel="Band">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220150000 -0400" stop="20191220160000 -0400" channel="Band">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220160000 -0400" stop="20191220185000 -0400" channel="Band">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220185000 -0400" stop="20191220192000 -0400" channel="Band">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220192000 -0400" stop="20191220202000 -0400" channel="Band">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220202000 -0400" stop="20191220211000 -0400" channel="Band">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220211000 -0400" stop="20191220215700 -0400" channel="Band">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220215700 -0400" stop="20191220220000 -0400" channel="Band">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220220000 -0400" stop="20191220224500 -0400" channel="Band">
+    <title lang="pt">Band Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220224500 -0400" stop="20191221003000 -0400" channel="Band">
+    <title lang="pt">Música Na Band: Na Mesa do Bar</title>
+    <sub-title lang="pt">Gabriel Gava</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221003000 -0400" stop="20191221011500 -0400" channel="Band">
+    <title lang="pt">Jornal da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221011500 -0400" stop="20191221012000 -0400" channel="Band">
+    <title lang="pt">Que Fim Levou?</title>
+    <sub-title lang="pt">Boletim</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221012000 -0400" stop="20191221020000 -0400" channel="Band">
+    <title lang="pt">Justiça Implacável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221020000 -0400" stop="20191221033000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221033000 -0400" stop="20191221041500 -0400" channel="Band">
+    <title lang="pt">Band Notícias</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221041500 -0400" stop="20191221050000 -0400" channel="Band">
+    <title lang="pt">Jornal da Noite</title>
+    <sub-title lang="pt">Reapresentação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221050000 -0400" stop="20191221060000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221060000 -0400" stop="20191221063000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221063000 -0400" stop="20191221070000 -0400" channel="Band">
+    <title lang="pt">Tratamento Espiritual</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221070000 -0400" stop="20191221073000 -0400" channel="Band">
+    <title lang="pt">Mundo Real</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221073000 -0400" stop="20191221083000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221083000 -0400" stop="20191221090000 -0400" channel="Band">
+    <title lang="pt">Louvor e Mensagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221090000 -0400" stop="20191221093000 -0400" channel="Band">
+    <title lang="pt">Papo de Boleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221093000 -0400" stop="20191221094500 -0400" channel="Band">
+    <title lang="pt">Por Aí</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221094500 -0400" stop="20191221100000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221100000 -0400" stop="20191221110000 -0400" channel="Band">
+    <title lang="pt">Projeto Vida Nova na TV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221110000 -0400" stop="20191221113000 -0400" channel="Band">
+    <title lang="pt">Rompendo em Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221113000 -0400" stop="20191221120000 -0400" channel="Band">
+    <title lang="pt">Sem Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221120000 -0400" stop="20191221123000 -0400" channel="Band">
+    <title lang="pt">Agro Forte Brasil Forte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221123000 -0400" stop="20191221124500 -0400" channel="Band">
+    <title lang="pt">Verdade &amp; Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221124500 -0400" stop="20191221144500 -0400" channel="Band">
+    <title lang="pt">NBB: Minas x Corinthians</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221144500 -0400" stop="20191221160000 -0400" channel="Band">
+    <title lang="pt">Sessão Livre: Tempo de Esperança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221160000 -0400" stop="20191221185000 -0400" channel="Band">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221185000 -0400" stop="20191221192000 -0400" channel="Band">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221192000 -0400" stop="20191221202000 -0400" channel="Band">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221202000 -0400" stop="20191221211000 -0400" channel="Band">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221211000 -0400" stop="20191221215700 -0400" channel="Band">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221215700 -0400" stop="20191221220000 -0400" channel="Band">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221220000 -0400" stop="20191221221500 -0400" channel="Band">
+    <title lang="pt">BAND.DOC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221221500 -0400" stop="20191221230000 -0400" channel="Band">
+    <title lang="pt">Criativos.br</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221230000 -0400" stop="20191221233000 -0400" channel="Band">
+    <title lang="pt">Operação Implacável</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221233000 -0400" stop="20191222014500 -0400" channel="Band">
+    <title lang="pt">Sft: 16 MMA</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222014500 -0400" stop="20191222031500 -0400" channel="Band">
+    <title lang="pt">Cine Privé: Floresta da Perdição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222031500 -0400" stop="20191222045000 -0400" channel="Band">
+    <title lang="pt">Cinema Na Madrugada: Conexão Ásia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222045000 -0400" stop="20191222050000 -0400" channel="Band">
+    <title lang="pt">Vídeos Incríveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222050000 -0400" stop="20191222060000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222060000 -0400" stop="20191222063000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222063000 -0400" stop="20191222070000 -0400" channel="Band">
+    <title lang="pt">Palavra Fiel</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222070000 -0400" stop="20191222083000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222083000 -0400" stop="20191222090000 -0400" channel="Band">
+    <title lang="pt">Viagens ao Redor do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222090000 -0400" stop="20191222091500 -0400" channel="Band">
+    <title lang="pt">Papo de Boleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222091500 -0400" stop="20191222093000 -0400" channel="Band">
+    <title lang="pt">Por Aí</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222093000 -0400" stop="20191222100000 -0400" channel="Band">
+    <title lang="pt">Federação Israelita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222100000 -0400" stop="20191222103000 -0400" channel="Band">
+    <title lang="pt">Gol: O Grande Momento do Futebol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222103000 -0400" stop="20191222110000 -0400" channel="Band">
+    <title lang="pt">Pé na Estrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222110000 -0400" stop="20191222120000 -0400" channel="Band">
+    <title lang="pt">Verão Animado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222120000 -0400" stop="20191222140000 -0400" channel="Band">
+    <title lang="pt">Band Esporte Clube</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222140000 -0400" stop="20191222160000 -0400" channel="Band">
+    <title lang="pt">Supercopa Sub 20: Palmeiras x Flamengo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222160000 -0400" stop="20191222173000 -0400" channel="Band">
+    <title lang="pt">Cine Band: Beethoven, O Magnífico</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222173000 -0400" stop="20191222190000 -0400" channel="Band">
+    <title lang="pt">Cine Band: Beethoven 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222190000 -0400" stop="20191222200000 -0400" channel="Band">
+    <title lang="pt">Retrospectiva do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222200000 -0400" stop="20191222223000 -0400" channel="Band">
+    <title lang="pt">NBA 2019/20: Charlotte Hornets x Boston Celtics</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222223000 -0400" stop="20191223000000 -0400" channel="Band">
+    <title lang="pt">Masterchef</title>
+    <sub-title lang="pt">Para tudo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223000000 -0400" stop="20191223010000 -0400" channel="Band">
+    <title lang="pt">Canal Livre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223010000 -0400" stop="20191223020000 -0400" channel="Band">
+    <title lang="pt">Deles e Delas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223020000 -0400" stop="20191223024500 -0400" channel="Band">
+    <title lang="pt">Show Business</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223024500 -0400" stop="20191223044500 -0400" channel="Band">
+    <title lang="pt">Cinema Na Madrugada: Retrato de Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223044500 -0400" stop="20191223050000 -0400" channel="Band">
+    <title lang="pt">+info</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223050000 -0400" stop="20191223070000 -0400" channel="Band">
+    <title lang="pt">Café com Jornal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223070000 -0400" stop="20191223073000 -0400" channel="Band">
+    <title lang="pt">Posso Crer no Amanhã</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223073000 -0400" stop="20191223090000 -0400" channel="Band">
+    <title lang="pt">Notícias da Redação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223090000 -0400" stop="20191223105500 -0400" channel="Band">
+    <title lang="pt">Aqui na BAND</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223105500 -0400" stop="20191223110000 -0400" channel="Band">
+    <title lang="pt">#INFORMEI</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223110000 -0400" stop="20191223123000 -0400" channel="Band">
+    <title lang="pt">Jogo Aberto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223123000 -0400" stop="20191223140000 -0400" channel="Band">
+    <title lang="pt">Os Donos da Bola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223140000 -0400" stop="20191223150000 -0400" channel="Band">
+    <title lang="pt">Band Mulher</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223150000 -0400" stop="20191223160000 -0400" channel="Band">
+    <title lang="pt">Melhor da Tarde com Cátia Fonseca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223160000 -0400" stop="20191223185000 -0400" channel="Band">
+    <title lang="pt">Brasil Urgente</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223185000 -0400" stop="20191223192000 -0400" channel="Band">
+    <title lang="pt">Jornal do Rio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223192000 -0400" stop="20191223202000 -0400" channel="Band">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223202000 -0400" stop="20191223211000 -0400" channel="Band">
+    <title lang="pt">Ouro Verde</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223211000 -0400" stop="20191223215700 -0400" channel="Band">
+    <title lang="pt">Igreja da Graça</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223215700 -0400" stop="20191223220000 -0400" channel="Band">
+    <title lang="pt">Agenda dos Pastores</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223220000 -0400" stop="20191223224500 -0400" channel="Band">
+    <title lang="pt">Band Notícias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223224500 -0400" stop="20191224000000 -0400" channel="Band">
+    <title lang="pt">Me Poupe!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219004200 -0400" stop="20191219010700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219010700 -0400" stop="20191219015900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219015900 -0400" stop="20191219022400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219022400 -0400" stop="20191219025000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219025000 -0400" stop="20191219031200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219031200 -0400" stop="20191219033300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219033300 -0400" stop="20191219042300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Riverdale</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219042300 -0400" stop="20191219044700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219044700 -0400" stop="20191219051000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219051000 -0400" stop="20191219053600 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219053600 -0400" stop="20191219060000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219060000 -0400" stop="20191219065000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Flash</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219065000 -0400" stop="20191219071500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219071500 -0400" stop="20191219074600 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219074600 -0400" stop="20191219081400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219081400 -0400" stop="20191219083700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219083700 -0400" stop="20191219085800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219085800 -0400" stop="20191219092100 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219092100 -0400" stop="20191219094400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219094400 -0400" stop="20191219115700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Diário de uma Paixão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219115700 -0400" stop="20191219122700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219122700 -0400" stop="20191219125300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219125300 -0400" stop="20191219131700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219131700 -0400" stop="20191219134300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219134300 -0400" stop="20191219140900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219140900 -0400" stop="20191219143200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219143200 -0400" stop="20191219175300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Interestelar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219175300 -0400" stop="20191219200500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Homem-Formiga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219200500 -0400" stop="20191219202900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219202900 -0400" stop="20191219205300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219205300 -0400" stop="20191219211900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219211900 -0400" stop="20191219214000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219214000 -0400" stop="20191219223000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Legacies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191219223000 -0400" stop="20191220002300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Depois da Terra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220002300 -0400" stop="20191220004800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220004800 -0400" stop="20191220011300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220011300 -0400" stop="20191220020200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220020200 -0400" stop="20191220022600 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220022600 -0400" stop="20191220024700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220024700 -0400" stop="20191220030700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220030700 -0400" stop="20191220032900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220032900 -0400" stop="20191220041900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Legacies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220041900 -0400" stop="20191220044100 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220044100 -0400" stop="20191220050400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220050400 -0400" stop="20191220053400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220053400 -0400" stop="20191220060000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220060000 -0400" stop="20191220065000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Flash</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220065000 -0400" stop="20191220071400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220071400 -0400" stop="20191220073900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220073900 -0400" stop="20191220080300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220080300 -0400" stop="20191220082800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220082800 -0400" stop="20191220085300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220085300 -0400" stop="20191220091800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220091800 -0400" stop="20191220094300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220094300 -0400" stop="20191220100700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220100700 -0400" stop="20191220120300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Contágio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220120300 -0400" stop="20191220122700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220122700 -0400" stop="20191220125400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220125400 -0400" stop="20191220132100 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220132100 -0400" stop="20191220134700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220134700 -0400" stop="20191220141300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220141300 -0400" stop="20191220143200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220143200 -0400" stop="20191220145500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220145500 -0400" stop="20191220154700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220154700 -0400" stop="20191220163700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220163700 -0400" stop="20191220172700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Legacies</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220172700 -0400" stop="20191220195500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Star Wars: Episódio V</title>
+    <sub-title lang="pt">O Império Contra-Ataca</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220195500 -0400" stop="20191220223000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Star Wars: Episódio VI</title>
+    <sub-title lang="pt">O Retorno de Jedi</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191220223000 -0400" stop="20191221012300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">A Origem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221012300 -0400" stop="20191221035400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Um Sonho de Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221035400 -0400" stop="20191221044400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Riverdale</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221044400 -0400" stop="20191221051000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221051000 -0400" stop="20191221053500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221053500 -0400" stop="20191221060000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221060000 -0400" stop="20191221065000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Flash</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221065000 -0400" stop="20191221071500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221071500 -0400" stop="20191221074100 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221074100 -0400" stop="20191221080700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221080700 -0400" stop="20191221083300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221083300 -0400" stop="20191221085800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221085800 -0400" stop="20191221120500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Interestelar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221120500 -0400" stop="20191221123300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221123300 -0400" stop="20191221130000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221130000 -0400" stop="20191221132400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221132400 -0400" stop="20191221134600 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221134600 -0400" stop="20191221141000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221141000 -0400" stop="20191221143400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221143400 -0400" stop="20191221170200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Star Wars: Episódio V</title>
+    <sub-title lang="pt">O Império Contra-Ataca</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221170200 -0400" stop="20191221193600 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Star Wars: Episódio VI</title>
+    <sub-title lang="pt">O Retorno de Jedi</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221193600 -0400" stop="20191221223000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">A Origem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191221223000 -0400" stop="20191222003700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">A 5ª Onda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222003700 -0400" stop="20191222010200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Young Sheldon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222010200 -0400" stop="20191222015200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222015200 -0400" stop="20191222021100 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222021100 -0400" stop="20191222023200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222023200 -0400" stop="20191222025200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222025200 -0400" stop="20191222031400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222031400 -0400" stop="20191222033700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222033700 -0400" stop="20191222040000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222040000 -0400" stop="20191222042300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222042300 -0400" stop="20191222044500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222044500 -0400" stop="20191222051000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222051000 -0400" stop="20191222053500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222053500 -0400" stop="20191222060000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222060000 -0400" stop="20191222065000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Flash</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222065000 -0400" stop="20191222071300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222071300 -0400" stop="20191222073700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222073700 -0400" stop="20191222080200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222080200 -0400" stop="20191222082800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222082800 -0400" stop="20191222085300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222085300 -0400" stop="20191222091900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222091900 -0400" stop="20191222120100 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Um Sonho de Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222120100 -0400" stop="20191222123300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222123300 -0400" stop="20191222125800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222125800 -0400" stop="20191222132300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222132300 -0400" stop="20191222134800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222134800 -0400" stop="20191222140800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222140800 -0400" stop="20191222143400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222143400 -0400" stop="20191222145800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222145800 -0400" stop="20191222171900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Os Bad Boys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222171900 -0400" stop="20191222192600 -0400" channel="Warner Channel (1)">
+    <title lang="pt">A 5ª Onda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222192600 -0400" stop="20191222220000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">O Protetor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222220000 -0400" stop="20191222222500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Young Sheldon</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222222500 -0400" stop="20191222231500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Flash</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191222231500 -0400" stop="20191223000500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Arrow</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223000500 -0400" stop="20191223005500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Supergirl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223005500 -0400" stop="20191223011600 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223011600 -0400" stop="20191223013900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223013900 -0400" stop="20191223020500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223020500 -0400" stop="20191223022600 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223022600 -0400" stop="20191223024700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223024700 -0400" stop="20191223030700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223030700 -0400" stop="20191223032900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223032900 -0400" stop="20191223035200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223035200 -0400" stop="20191223041500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223041500 -0400" stop="20191223043700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223043700 -0400" stop="20191223050700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223050700 -0400" stop="20191223053900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223053900 -0400" stop="20191223060000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223060000 -0400" stop="20191223065100 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Flash</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223065100 -0400" stop="20191223071300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223071300 -0400" stop="20191223073700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Middle</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223073700 -0400" stop="20191223080400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223080400 -0400" stop="20191223083100 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223083100 -0400" stop="20191223085300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223085300 -0400" stop="20191223091800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223091800 -0400" stop="20191223093900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223093900 -0400" stop="20191223100400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223100400 -0400" stop="20191223121700 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Os Bad Boys</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223121700 -0400" stop="20191223124300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223124300 -0400" stop="20191223130800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223130800 -0400" stop="20191223133200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223133200 -0400" stop="20191223135900 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223135900 -0400" stop="20191223142500 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Two and a Half Men</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223142500 -0400" stop="20191223145000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223145000 -0400" stop="20191223151300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223151300 -0400" stop="20191223160200 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Supernatural</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223160200 -0400" stop="20191223175800 -0400" channel="Warner Channel (1)">
+    <title lang="pt">O Máskara</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223175800 -0400" stop="20191223200400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Jack, O Caçador De Gigantes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223200400 -0400" stop="20191223203000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223203000 -0400" stop="20191223205400 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223205400 -0400" stop="20191223212000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223212000 -0400" stop="20191223214000 -0400" channel="Warner Channel (1)">
+    <title lang="pt">The Big Bang Theory</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20191223214000 -0400" stop="20191224003300 -0400" channel="Warner Channel (1)">
+    <title lang="pt">Piratas do Caribe: O Baú da Morte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
 </tv>
